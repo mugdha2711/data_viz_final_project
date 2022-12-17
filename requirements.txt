@@ -1,0 +1,5 @@
+wbgapi
+pandas
+numpy
+matplotlib
+ipywidgets
