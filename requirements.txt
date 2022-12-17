@@ -3,3 +3,5 @@ pandas
 numpy
 matplotlib
 ipywidgets
+plotly
+chart_studio
